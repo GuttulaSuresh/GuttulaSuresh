@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Suresh 👋</h1>
 
 <p align="center">
-  I build small AI tools and automations that save real time. Mostly Python, running locally on my Mac.
+  I build small AI tools and automations as a hobby and running them locally.
 </p>
 
 <p align="center">
