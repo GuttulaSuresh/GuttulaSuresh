@@ -61,41 +61,11 @@
       <br>Docker
     </td>
   </tr>
-  <tr>
-    <td align="center" width="96">
-      <img src="https://cdn.simpleicons.org/n8n" width="48" height="48" alt="n8n" />
-      <br>n8n
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=postgres" width="48" height="48" alt="PostgreSQL" />
-      <br>PostgreSQL
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=bun" width="48" height="48" alt="Bun" />
-      <br>Bun
-    </td>
-    <td align="center" width="96">
-      <img src="https://cdn.simpleicons.org/homebrew" width="48" height="48" alt="Homebrew" />
-      <br>Homebrew
-    </td>
   </tr>
   <tr>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" />
-      <br>Git
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=github" width="48" height="48" alt="GitHub" />
-      <br>GitHub
-    </td>
-    <td align="center" width="96">
       <img src="https://cdn.simpleicons.org/githubactions" width="48" height="48" alt="GitHub Actions" />
       <br>GitHub Actions
-    </td>
-    <td align="center" width="96">
-      <img src="https://cdn.simpleicons.org/xcode" width="48" height="48" alt="Xcode" />
-      <br>Xcode
-    </td>
   </tr>
 </table>
 
