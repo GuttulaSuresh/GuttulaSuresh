@@ -1,4 +1,59 @@
-## click to paint 🎨
+<h1 align="center">Hi, I'm Suresh 👋</h1>
+
+<p align="center">
+  I build small AI tools and automations that save real time. Mostly Python, running locally on my Mac.
+</p>
+
+<p align="center">
+  <a href="https://github.com/GuttulaSuresh?tab=followers"><img src="https://img.shields.io/github/followers/GuttulaSuresh?label=Follow&style=social" alt="Follow on GitHub"></a>
+  <img src="https://komarev.com/ghpvc/?username=GuttulaSuresh&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views">
+  <img src="https://img.shields.io/badge/Open%20to%20work-tech%20roles-2ea44f?style=flat" alt="Open to work">
+</p>
+
+---
+
+### 🛠️ What I work on
+
+- 🤖 AI automations with **n8n**, Python and LLM APIs
+- 🖥️ Local-first tools that keep personal data on my own machine
+- 🦾 Hobby robotics with **LeRobot** and the SO-101 arm
+- ✍️ Writing about AI and tech on LinkedIn
+
+### 📂 Featured projects
+
+| Project | What it does |
+|---|---|
+| [health-insights-dashboard](https://github.com/GuttulaSuresh/health-insights-dashboard) | Turns blood test reports into plain-language insights and trends. Runs fully in the browser, no backend, no API keys. |
+| [click to paint](#-click-to-paint) | A shared pixel canvas right on this page. Built on Val Town, no JavaScript in the README. |
+
+### 🧰 Tools I use
+
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" alt="TypeScript">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" alt="JavaScript">
+  <img src="https://img.shields.io/badge/n8n-EA4B71?style=flat&logo=n8n&logoColor=white" alt="n8n">
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white" alt="PostgreSQL">
+  <img src="https://img.shields.io/badge/Bun-000000?style=flat&logo=bun&logoColor=white" alt="Bun">
+  <img src="https://img.shields.io/badge/Claude-D97757?style=flat&logo=anthropic&logoColor=white" alt="Claude">
+</p>
+
+---
+
+### 📊 GitHub stats
+
+<p align="center">
+  <img height="150" src="https://beautiful-github-homepage.vercel.app/api?username=GuttulaSuresh&hide_title=true&show_icons=true&theme=gotham&include_all_commits=true" alt="GitHub stats">
+  <img height="150" src="https://github-readme-streak-stats.herokuapp.com?user=GuttulaSuresh&theme=gotham&hide_border=true" alt="GitHub streak">
+</p>
+
+<p align="center">
+  <img height="150" src="https://beautiful-github-homepage.vercel.app/api/top-langs/?username=GuttulaSuresh&layout=compact&theme=gotham&hide_border=true" alt="Top languages">
+</p>
+
+---
+
+## 🎨 click to paint
 
 Pick a color from the top strip, then click a square. Everyone shares one canvas and one brush.
 
