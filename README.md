@@ -13,13 +13,6 @@
 
 ---
 
-### 🛠️ What I work on
-
-- 🤖 AI automations with **n8n**, Python and LLM APIs
-- 🖥️ Local-first tools that keep personal data on my own machine
-- 🦾 Hobby robotics with **LeRobot** and the SO-101 arm
-- ✍️ Writing about AI and tech on LinkedIn
-
 ### 📂 Featured projects
 
 | Project | What it does |
