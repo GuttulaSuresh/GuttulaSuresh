@@ -22,15 +22,90 @@
 
 ### 🧰 Tools I use
 
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python">
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" alt="TypeScript">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" alt="JavaScript">
-  <img src="https://img.shields.io/badge/n8n-EA4B71?style=flat&logo=n8n&logoColor=white" alt="n8n">
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white" alt="PostgreSQL">
-  <img src="https://img.shields.io/badge/Bun-000000?style=flat&logo=bun&logoColor=white" alt="Bun">
-  <img src="https://img.shields.io/badge/Claude-D97757?style=flat&logo=anthropic&logoColor=white" alt="Claude">
+### 💻 My favorite tools and technologies
+
+<table align="center">
+  <tr>
+    <td align="center" width="96">
+      <img src="https://cdn.simpleicons.org/claude" width="48" height="48" alt="Claude" />
+      <br>Claude
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.simpleicons.org/huggingface" width="48" height="48" alt="Hugging Face" />
+      <br>Hugging Face
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.simpleicons.org/nvidia" width="48" height="48" alt="CUDA" />
+      <br>CUDA
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.simpleicons.org/amd/ED1C24" width="48" height="48" alt="ROCm" />
+      <br>ROCm
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="96">
+      <img src="https://cdn.simpleicons.org/nvidia" width="48" height="48" alt="NVIDIA Jetson" />
+      <br>NVIDIA Jetson
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.simpleicons.org/arm" width="48" height="48" alt="Arm SoC" />
+      <br>Arm SoC
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=linux" width="48" height="48" alt="Linux" />
+      <br>Linux
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=docker" width="48" height="48" alt="Docker" />
+      <br>Docker
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="96">
+      <img src="https://cdn.simpleicons.org/n8n" width="48" height="48" alt="n8n" />
+      <br>n8n
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=postgres" width="48" height="48" alt="PostgreSQL" />
+      <br>PostgreSQL
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=bun" width="48" height="48" alt="Bun" />
+      <br>Bun
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.simpleicons.org/homebrew" width="48" height="48" alt="Homebrew" />
+      <br>Homebrew
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" />
+      <br>Git
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=github" width="48" height="48" alt="GitHub" />
+      <br>GitHub
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.simpleicons.org/githubactions" width="48" height="48" alt="GitHub Actions" />
+      <br>GitHub Actions
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.simpleicons.org/xcode" width="48" height="48" alt="Xcode" />
+      <br>Xcode
+    </td>
+  </tr>
+</table>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Robotics-0A66C2?style=for-the-badge" alt="Robotics">
+  <img src="https://img.shields.io/badge/LiDAR-6A1B9A?style=for-the-badge" alt="LiDAR">
+  <img src="https://img.shields.io/badge/Autonomous%20Driving-2E7D32?style=for-the-badge" alt="Autonomous Driving">
+  <img src="https://img.shields.io/badge/HIL%20Testing-E65100?style=for-the-badge" alt="HIL Testing">
 </p>
+
 
 <p align="center">
   <picture>
