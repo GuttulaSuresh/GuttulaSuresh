@@ -6,6 +6,7 @@
 
 <p align="center">
   <a href="https://github.com/GuttulaSuresh?tab=followers"><img src="https://img.shields.io/github/followers/GuttulaSuresh?label=Follow&style=social" alt="Follow on GitHub"></a>
+    <a href="https://www.linkedin.com/in/suresh-guttula/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="Connect on LinkedIn"></a>
   <img src="https://komarev.com/ghpvc/?username=GuttulaSuresh&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views">
   <img src="https://img.shields.io/badge/Open%20to%20work-tech%20roles-2ea44f?style=flat" alt="Open to work">
 </p>
