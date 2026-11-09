@@ -38,6 +38,13 @@
   <img src="https://img.shields.io/badge/Claude-D97757?style=flat&logo=anthropic&logoColor=white" alt="Claude">
 </p>
 
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/GuttulaSuresh/GuttulaSuresh/output/github-snake-dark.svg">
+    <img src="https://raw.githubusercontent.com/GuttulaSuresh/GuttulaSuresh/output/github-snake.svg" alt="Snake eating my contribution graph">
+  </picture>
+</p>
+
 ---
 
 ### 📊 GitHub stats
