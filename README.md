@@ -5,6 +5,10 @@
 </p>
 
 <p align="center">
+  <a href="https://guttulasuresh.github.io/portfolio/"><img src="https://img.shields.io/badge/Portfolio-from%20sensor%20to%20silicon-ff8a5c?style=for-the-badge&logo=githubpages&logoColor=white" alt="Portfolio: from sensor to silicon"></a>
+</p>
+
+<p align="center">
   <a href="https://github.com/GuttulaSuresh?tab=followers"><img src="https://img.shields.io/github/followers/GuttulaSuresh?label=Follow&style=social" alt="Follow on GitHub"></a>
     <a href="https://www.linkedin.com/in/suresh-guttula/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="Connect on LinkedIn"></a>
   <img src="https://komarev.com/ghpvc/?username=GuttulaSuresh&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views">
@@ -17,6 +21,7 @@
 
 | Project | What it does |
 |---|---|
+| 🌐 [**Portfolio**](https://guttulasuresh.github.io/portfolio/) | My work from sensor to silicon: lidar, edge AI, open FPGA hardware and the tools I build, running live in the browser. |
 | ⭐ [lidar-prep](https://github.com/GuttulaSuresh/lidar-prep) | Lidar point-cloud preprocessing (crop, voxel, RANSAC ground, clustering) with per-stage timing, a 3D browser viewer, and the first stages as open-source FPGA hardware simulated bit-exact. Asks which stages belong in hardware and which on a CPU. |
 | [health-insights-dashboard](https://github.com/GuttulaSuresh/health-insights-dashboard) | Turns blood test reports into plain-language insights and trends. Runs fully in the browser, no backend, no API keys. |
 | [click to paint](#-click-to-paint) | A shared pixel canvas right on this page. Built on Val Town, no JavaScript in the README. |
