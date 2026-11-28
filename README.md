@@ -17,8 +17,13 @@
 
 | Project | What it does |
 |---|---|
+| ⭐ [lidar-prep](https://github.com/GuttulaSuresh/lidar-prep) | Lidar point-cloud preprocessing (crop, voxel, RANSAC ground, clustering) with per-stage timing, a 3D browser viewer, and the first stages as open-source FPGA hardware simulated bit-exact. Asks which stages belong in hardware and which on a CPU. |
 | [health-insights-dashboard](https://github.com/GuttulaSuresh/health-insights-dashboard) | Turns blood test reports into plain-language insights and trends. Runs fully in the browser, no backend, no API keys. |
 | [click to paint](#-click-to-paint) | A shared pixel canvas right on this page. Built on Val Town, no JavaScript in the README. |
+
+<p align="center">
+  <a href="https://github.com/GuttulaSuresh/lidar-prep"><img src="https://raw.githubusercontent.com/GuttulaSuresh/lidar-prep/master/docs/media/viewer-clusters.png" width="720" alt="lidar-prep viewer: a synthetic street scan clustered into objects, with the FPGA hardware panel"></a>
+</p>
 
 ### 🧰 Tools I use
 
